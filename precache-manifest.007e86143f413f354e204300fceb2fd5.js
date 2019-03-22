@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a30fcb685b00371a6fa1",
+    "revision": "a5a757c78b8139e32ae4",
     "url": "/shop-phone/static/css/main.c82c61da.chunk.css"
   },
   {
-    "revision": "a30fcb685b00371a6fa1",
-    "url": "/shop-phone/static/js/main.1057debd.chunk.js"
+    "revision": "a5a757c78b8139e32ae4",
+    "url": "/shop-phone/static/js/main.b237ef84.chunk.js"
   },
   {
     "revision": "39eb724d656bd5a9f0ad",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/shop-phone/static/media/product-8.d390282f.png"
   },
   {
-    "revision": "f2307958ded359fe58924d63ad2180f9",
+    "revision": "d49b8e5e8663c78c6725c2793c14ca0b",
     "url": "/shop-phone/index.html"
   }
 ];
