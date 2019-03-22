@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "e8da07e00aa09619127e",
+    "revision": "a30fcb685b00371a6fa1",
     "url": "/shop-phone/static/css/main.c82c61da.chunk.css"
   },
   {
-    "revision": "e8da07e00aa09619127e",
-    "url": "/shop-phone/static/js/main.ab63b66c.chunk.js"
+    "revision": "a30fcb685b00371a6fa1",
+    "url": "/shop-phone/static/js/main.1057debd.chunk.js"
   },
   {
     "revision": "39eb724d656bd5a9f0ad",
     "url": "/shop-phone/static/js/runtime~main.be4b7ed4.js"
   },
   {
-    "revision": "6f0a615fe451a5ba381e",
+    "revision": "0172e0eaf01e105e313c",
     "url": "/shop-phone/static/css/2.a96e062b.chunk.css"
   },
   {
-    "revision": "6f0a615fe451a5ba381e",
-    "url": "/shop-phone/static/js/2.6a56252a.chunk.js"
+    "revision": "0172e0eaf01e105e313c",
+    "url": "/shop-phone/static/js/2.7ea4f64e.chunk.js"
   },
   {
     "revision": "d63d9eff35aa057bab9c5041938d6d69",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/shop-phone/static/media/product-8.d390282f.png"
   },
   {
-    "revision": "50212affd0b62b9ede9e163dfef5ba13",
+    "revision": "f2307958ded359fe58924d63ad2180f9",
     "url": "/shop-phone/index.html"
   }
 ];
